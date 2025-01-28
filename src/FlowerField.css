@@ -987,3 +987,26 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 .not-loaded * {
   animation-play-state: paused !important;
 }
+
+.container h1 {
+  font-size: 3em;
+  color: white;
+  text-align: center;
+  text-shadow: 0 0 5px rgba(255, 255, 255, 0.8), 
+               0 0 10px rgba(172, 57, 57, 0.6), 
+               0 0 15px rgba(4, 74, 205, 0.8), 
+               0 0 20px rgba(85, 75, 230, 0.5);
+  animation: typing 4s steps(30, end), blink-caret 0.75s step-end infinite;
+  white-space: nowrap; /* Prevents text from wrapping */
+  
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: white; }
+}

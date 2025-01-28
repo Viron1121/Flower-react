@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.message {
+  color: rgba(255, 255, 255, 0.7); /* Light text color with some transparency */
+  width: 50%;
+  text-align: center; /* Center the text horizontally */
+  height: 70vh;
+  
+  /* Center the element horizontally */
+
+ 
+  
+  /* Aesthetic text styles */
+   /* Adjust font size as needed */
+  text-shadow: 0 0 5px rgba(255, 255, 255, 0.8), 0 0 10px rgba(255, 255, 255, 0.6), 0 0 15px rgba(255, 255, 255, 0.4); /* Glowing effect */
+  transition: color 0.3s ease; /* Smooth transition for color changes */
+}
+
+.message:hover {
+  color: rgba(255, 255, 255, 1); /* Fully white on hover */
+  text-shadow: 0 0 10px rgba(255, 255, 255, 1), 0 0 15px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6); /* More intense glow on hover */
+}
