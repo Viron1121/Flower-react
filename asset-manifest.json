@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Flower-react/static/css/main.e89373ed.css",
-    "main.js": "/Flower-react/static/js/main.fe0790df.js",
-    "static/js/488.7797cef8.chunk.js": "/Flower-react/static/js/488.7797cef8.chunk.js",
-    "static/media/music.mp3": "/Flower-react/static/media/music.152f627e8080f8e130ab.mp3",
-    "index.html": "/Flower-react/index.html",
-    "main.e89373ed.css.map": "/Flower-react/static/css/main.e89373ed.css.map",
-    "main.fe0790df.js.map": "/Flower-react/static/js/main.fe0790df.js.map",
-    "488.7797cef8.chunk.js.map": "/Flower-react/static/js/488.7797cef8.chunk.js.map"
+    "main.css": "/Flower/static/css/main.e89373ed.css",
+    "main.js": "/Flower/static/js/main.cf366d8b.js",
+    "static/js/488.7797cef8.chunk.js": "/Flower/static/js/488.7797cef8.chunk.js",
+    "static/media/music.mp3": "/Flower/static/media/music.152f627e8080f8e130ab.mp3",
+    "index.html": "/Flower/index.html",
+    "main.e89373ed.css.map": "/Flower/static/css/main.e89373ed.css.map",
+    "main.cf366d8b.js.map": "/Flower/static/js/main.cf366d8b.js.map",
+    "488.7797cef8.chunk.js.map": "/Flower/static/js/488.7797cef8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e89373ed.css",
-    "static/js/main.fe0790df.js"
+    "static/js/main.cf366d8b.js"
   ]
 }
